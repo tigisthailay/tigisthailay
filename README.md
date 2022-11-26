@@ -26,6 +26,4 @@ A passionate and Perseverant junior Data Engineer/Machine Learning Engineer with
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigisthailay&show_icons=true&locale=en&layout=compact" alt="tigisthailay"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigisthailay&show_icons=true&locale=en" alt="tigisthailay"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigisthailay&" alt="tigisthailay"/></p>
