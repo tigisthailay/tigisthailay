@@ -1,11 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tegisty Hailay</h2>
 A passionate and Perseverant junior Data Engineer/Machine Learning Engineer with a background Computer Science. Skilled in Python, SQL, data preprocessing,data modeling,visualization and Software Engineering. I have strong problem-solving and communication skills and a desire to work in a collaborative.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigisthailay&label=Profile%20views&color=0e75b6&style=flat" alt="tigisthailay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigisthailay" alt="tigisthailay" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/TegistyH" target="blank"><img src="https://img.shields.io/twitter/follow/TegistyH?logo=twitter&style=for-the-badge" alt="TegistyH" /></a> </p>
 
 - 🌱 Currently, I’m learning Machine Learning,Data & Web 3 Engineering.
 
